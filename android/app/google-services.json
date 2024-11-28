@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38485188895",
+    "project_id": "msnic-mistter",
+    "storage_bucket": "msnic-mistter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38485188895:android:6dc504a3e9f76ecad3d02a",
+        "android_client_info": {
+          "package_name": "jp.msnis.msnic.mistter2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0n2CxBj95lFBYrqSJCdEPtQruvoBp2Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
